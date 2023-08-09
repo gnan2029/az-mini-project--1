@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'gnan-mp01-appsvc'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4BFE5000D90E4507A0411BA6FF50FCC9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1162516778024847B0A300A1480B3220 }}
           package: .
